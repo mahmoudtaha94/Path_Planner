@@ -4,7 +4,6 @@
 ## Valid trajectories
 
 ### The car is able to drive at least 4.32 miles without incident.
-I ran the simulator for 15 and 20 miles without incidents:
 
 ![image](images/drive_at_least_4.32_miles_without_incident.png)
 
